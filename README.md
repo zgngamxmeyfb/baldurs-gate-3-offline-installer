@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons & Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 64-bit | macOS 14.7.1 or newer |
+| **Processor** | Min: Intel I5 4690 / AMD FX 8350 / Snapdragon X Elite / Rec: Intel i7 8700K / AMD r5 3600 | Apple M1 |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: Nvidia GTX 970 / RX 480 / Intel Arc A380 / Qualcomm Adr… / Rec: Nvidia 2060 Super / RX 5700 XT / Intel Arc A580 (8GB+ o… | Apple M1 |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 150 GB available space | 150 GB available space |
+| **Additional Notes** | SSD required | Min specs can run the game on low to medium settings. S… |
 
 ---
 
